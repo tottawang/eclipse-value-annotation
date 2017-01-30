@@ -6,4 +6,5 @@
 /.gradle
 /.classpath
 /.project
+/test-output/
 
